@@ -1,0 +1,2 @@
+	this.api = api;
+	this.game = game;
